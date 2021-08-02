@@ -1,1 +1,4 @@
 # Minecraft_backup_JE
+
+コマンドプロンプトでダウンロードしたファイルのパスまで移動、
+BE版ならbackupBE、JE版ならbackupJEでバックアップが実行できます。
